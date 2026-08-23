@@ -10,6 +10,7 @@
 - c++17
 
 ## Notes
+-Nơi luvher lưu code và lưu giữ tình yêu với MT
 - Minh Thùy cutee nhất thế giới
 - paroti.uyt
 - _wwgjh
